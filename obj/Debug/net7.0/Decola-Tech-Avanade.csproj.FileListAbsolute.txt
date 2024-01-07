@@ -1,0 +1,5 @@
+C:\Estudos - Programação\Projetos DIO - .Net\Decola-Tech-Avanade\obj\Debug\net7.0\Decola-Tech-Avanade.csproj.AssemblyReference.cache
+C:\Estudos - Programação\Projetos DIO - .Net\Decola-Tech-Avanade\obj\Debug\net7.0\Decola-Tech-Avanade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos - Programação\Projetos DIO - .Net\Decola-Tech-Avanade\obj\Debug\net7.0\Decola-Tech-Avanade.AssemblyInfoInputs.cache
+C:\Estudos - Programação\Projetos DIO - .Net\Decola-Tech-Avanade\obj\Debug\net7.0\Decola-Tech-Avanade.AssemblyInfo.cs
+C:\Estudos - Programação\Projetos DIO - .Net\Decola-Tech-Avanade\obj\Debug\net7.0\Decola-Tech-Avanade.csproj.CoreCompileInputs.cache
